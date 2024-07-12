@@ -34,4 +34,4 @@ git clone https://github.com/Akhondokevin761/SIMPLE-DATA-EXPLORATION-IN-PYTHON.g
 
 cd SIMPLE-DATA-EXPLORATION-IN-PYTHON
 
-jupyter notebook notebooks/Project1.ipynb
+jupyter lab
