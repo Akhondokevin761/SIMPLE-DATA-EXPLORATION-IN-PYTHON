@@ -28,6 +28,8 @@ To run this project, you will need Python 3 and the following packages:
 
 -Openpyxl
 
+-jupyterlab
+
 ## Usage
 
 git clone https://github.com/Akhondokevin761/SIMPLE-DATA-EXPLORATION-IN-PYTHON.git
