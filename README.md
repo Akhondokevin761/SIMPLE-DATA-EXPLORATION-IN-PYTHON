@@ -67,4 +67,8 @@ python main.py
 
 This section outlines how files and directories are organized. It further brief description of each component.
 
+### Directory Structure
+
+- 'Data/' : Contains data used in this project
+- 'Notebook/' : Contains the jupyter notebook of data exploration
 
