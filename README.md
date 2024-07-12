@@ -14,6 +14,8 @@ This repository is for exploring data, creating a new categorical variable and e
 
 -[Contribution](#Contribution)
 
+-[Licence](#Licence)
+
 ## Introduction
 In data analysis, data exploration is one important step that has to be performed. This involves understanding the data, cleaning it, visualizing it to gain more insights about it, and making informed decisions. This project provides simple data exploration in Python.
 
@@ -85,3 +87,13 @@ Contains the jupyter notebook named "Project1.ipynb" that outlines all the steps
 ## Data
 
 This is mainly a folder that contains the sample data(smartphone_category(1).csv) and the final exported data(SMARTDATA.csv) used in this project.
+
+
+## Contribution
+
+Your Contributions are welcome.
+
+## Licence
+
+This project is licensed under the MIT License. Please see the LICENSE file for details.
+
