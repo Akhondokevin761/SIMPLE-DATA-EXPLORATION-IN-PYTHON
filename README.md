@@ -18,4 +18,20 @@ This repository is for exploring data, creating a new categorical variable and e
 In data analysis, data exploration is one important step that has to be performed. This involves understanding the data, cleaning it, visualizing it to gain more insights about it, and making informed decisions. This project provides simple data exploration in Python.
 
 ## Installation
-To run this project, you will need Python 
+To run this project, you will need Python 3 and the following packages:
+
+-Pandas
+
+-Numpy
+
+-matplotlib.pyplot
+
+-Openpyxl
+
+## Usage
+
+git clone https://github.com/Akhondokevin761/SIMPLE-DATA-EXPLORATION-IN-PYTHON.git
+
+cd SIMPLE-DATA-EXPLORATION-IN-PYTHON
+
+jupyter notebook notebooks/Project1.ipynb
