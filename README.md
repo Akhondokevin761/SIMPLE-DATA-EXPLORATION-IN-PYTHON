@@ -63,3 +63,8 @@ python main.py
 
 ```
 
+## Project Structure
+
+This section outlines how files and directories are organized. It further brief description of each component.
+
+
