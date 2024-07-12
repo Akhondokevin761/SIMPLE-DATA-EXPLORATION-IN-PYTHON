@@ -81,3 +81,7 @@ This contains the original sample data named "smartphone_category(1).csv" that w
 
 Contains the jupyter notebook named "Project1.ipynb" that outlines all the steps used in data exploration from step 1 of loading the libraries to final step of exporting the data to csv file.
 
+
+## Data
+
+This is mainly a folder that contains the sample data(smartphone_category(1).csv) and the final exported data(SMARTDATA.csv) used in this project.
